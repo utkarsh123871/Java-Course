@@ -13,6 +13,7 @@ public class CWH_13_Strings {
         // int a=6;
         // float b=5.3445f;
         // System.out.printf("The value of a is %d and value of b is %f" , a , b); 
+        // System.out.printf("The value of a is %d and value of b is %f" , a , b); 
 
         Scanner sc = new Scanner(System.in);
         String st = sc.nextLine();
